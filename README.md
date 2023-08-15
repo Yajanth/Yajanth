@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on projects in the data domain.
 - 🤔 I’m looking for help with good GCP tutorials 
 - 💬 Ask me about any doubts you have with debugging Python code and getting your errors rectified.
-- 📫 How to reach me: [Linked in](https://www.linkedin.com/in/bhoomika-mewada-97992a143/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Unpredictable behavior
+- 📫 How to reach me: [Linked in](https://www.linkedin.com/Yajanth/)
+- 😄 Pronouns: He/
+- ⚡ Fun fact: Filmmaking and storytelling are O2 & h20.
 
 ![Yajanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yajanth&show_icons=true&theme=radical)
 

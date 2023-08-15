@@ -7,7 +7,7 @@
 - 💬 Ask me about any doubts you have with data manipulations in Python code and getting your errors rectified.
 - 📫 How to reach me: [Linked in](https://www.linkedin.com/Yajanth)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Filmmaking and storytelling are O^2 & h20.
+- ⚡ Fun fact: Filmmaking and storytelling are O2 & H20.
 
 ![Yajanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yajanth&show_icons=true&theme=radical)
 

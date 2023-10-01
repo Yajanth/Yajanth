@@ -27,11 +27,11 @@
         </b>
       </td> -->
       <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/Yajanth"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+   <!--    <td>
+         <a href="https://github.com/Yajanth"> <img src="https://komarev.com/ghpvc/?username=Yajanth&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
-  </table>
+  </table> -->
 ---
 
 ### Here is my status

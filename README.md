@@ -10,28 +10,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurspk/)
 
 
-## Profile Views
 
-
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-   <!--    <td>
-         <a href="https://github.com/Yajanth"> <img src="https://komarev.com/ghpvc/?username=Yajanth&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table> -->
+      
 ---
 
 ### Here is my status
@@ -46,7 +26,7 @@
 ---
 
 
-| ![Yajanth's GitHub stats]| 
+## Yajanth's GitHub stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yajanth&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yajanth&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yajanth&theme=nord_dark) |
 | :-: | :-: | :-: |
 

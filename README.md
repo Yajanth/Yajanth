@@ -20,7 +20,6 @@
 - 🤔 I’m looking for help with getting my hands dirty on cloud computing. 
 - 💬 Ask me about any doubts you have with data manipulations in Python code and getting your errors rectified.
 - 📫 How to reach me: [Linked in](https://www.linkedin.com/in/Yajanth)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Filmmaking and storytelling are O2 & H20.
  
 ---

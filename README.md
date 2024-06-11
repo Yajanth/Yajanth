@@ -15,8 +15,8 @@
 ---
 
 ### Here is my status
-- 🔭 I’m currently working on Sofware and cloud Engineering .
-- 👯 I’m looking to collaborate on projects in the Quant Domain.
+- 🔭 I’m currently working on Software and cloud Engineering .
+- 👯 I’m looking to collaborate on projects in the Cloud Domain.
 - 🤔 I’m looking for help with getting my hands dirty on cloud computing. 
 - 💬 Ask me about any doubts you have with data manipulations in Python code and getting your errors rectified.
 - 📫 How to reach me: [Linked in](https://www.linkedin.com/in/Yajanth)

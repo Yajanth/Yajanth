@@ -10,6 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yajanthrr)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yajanth&label=Profile%20views&color=0e75b6&style=flat" alt="TejodhayBonam" /> </p>
 
       
 ---

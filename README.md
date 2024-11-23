@@ -1,4 +1,4 @@
-## Hi , I'm Yajanth :man_technologist:
+<h1 align="center">Hi, I'm <a target="_blank" href="https://www.linkedin.com/in/yajanth/" > Yajanth </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 </h1>
 <div align="center">

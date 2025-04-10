@@ -17,11 +17,11 @@
 
 ### Here is my status
 - 🔭 I’m currently working on Software and cloud Engineering .
-- 👯 I’m looking to collaborate on projects in the Cloud Domain.
-- 🤔 I’m looking for help with getting my hands dirty on cloud computing. 
-- 💬 Ask me about any doubts you have with data manipulations in Python code and getting your errors rectified.
+- 👯 I’m looking to collaborate on Backend projects in the Cloud Domain, especially around GCP, AWS, Docker, Kubernetes, and Terraform.
+- 🤔 I’m looking to deepen my expertise in cloud computing, containerization , and infrastructure automation. 
+- 💬 Ask me about backend development with Java, Spring Boot or any coding challenges you might face!
 - 📫 How to reach me: [Linked in](https://www.linkedin.com/in/Yajanth)
-- ⚡ Fun fact: Storytelling are O2 & H20.
+- ⚡ Fun fact: Storytelling fuels my creativity and problem-solving!
  
 ---
 

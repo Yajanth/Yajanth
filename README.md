@@ -17,8 +17,8 @@
 
 ### Here is my status
 - 🔭 I’m currently working on Software and cloud Engineering .
-- 👯 I’m looking to collaborate on Backend projects in the Cloud Domain, especially around GCP, AWS, Docker, Kubernetes, and Terraform.
-- 🤔 I’m looking to deepen my expertise in cloud computing, containerization , and infrastructure automation. 
+- 👯 I’m looking to collaborate on Backend projects in the Cloud Domain, especially around Azure, GCP, AWS, Docker, Kubernetes, and Terraform.
+- 🤔 I’m looking to deepen my expertise in Distributed systems, and cloud computing. 
 - 💬 Ask me about backend development with Java, Spring Boot or any coding challenges you might face!
 - 📫 How to reach me: [Linked in](https://www.linkedin.com/in/Yajanth)
 - ⚡ Fun fact: Storytelling fuels my creativity and problem-solving!
